@@ -1,0 +1,10 @@
+nombre:antonella
+apellido:vicci
+usuario:andres.gomez
+paswd:123
+email:antmvcc@fromfuture.com
+telefono:1236541254
+empresa:Empresa ACME 01
+estrato:1
+cargo:IA Seeding
+direccion:Calle falsa 456
