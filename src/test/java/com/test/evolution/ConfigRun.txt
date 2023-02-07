@@ -1,7 +1,7 @@
 nombre:antonella
 apellido:vicci
-usuario:andres.gomez
-paswd:123
+usuario:******
+paswd:****
 email:antmvcc@fromfuture.com
 telefono:1236541254
 empresa:Empresa ACME 01
